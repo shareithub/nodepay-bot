@@ -13,8 +13,7 @@ MAX_PROXY_PER_TOKEN = 10  # Setiap token hanya bisa menggunakan maksimal 10 prox
 DOMAIN_API = {
     "SESSION": "https://api.nodepay.ai/api/auth/session",
     "PING": [
-        "http://13.215.134.222/api/network/ping",
-        "http://52.77.10.116/api/network/ping"
+        "https://nw.nodepay.org/api/network/ping"
     ]
 }
 
