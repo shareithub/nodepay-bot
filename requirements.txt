@@ -1,2 +1,5 @@
-cloudscraper==1.2.71
-loguru==0.7.2
+cloudscraper
+loguru
+requests
+curl_cffi
+colorama
